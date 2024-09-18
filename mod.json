@@ -1,5 +1,5 @@
 {
-	"geode": "3.4.0",
+	"geode": "3.7.2",
 	"version": "v1.1.0",
 	"gd": {
 		"win": "2.206",
@@ -8,7 +8,7 @@
 		"ios": "2.206"
 	},
 	"id": "thesillydoggo.comment_emojis",
-	"name": "Emojis in Comments",
+	"name": "Emojis in Comments (CPS Server)",
 	"dependencies": [
         {
             "id": "geode.node-ids",
